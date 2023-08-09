@@ -34,7 +34,8 @@ Your changes will be reviewed, and you will receive feedback on whether they wil
 # License
 
 This project is licensed under the GPL-3.0 License. Refer to the LICENSE file for more information.
-EXAMPLE FOOTAGE :
+
+# EXAMPLE FOOTAGE :
 
 ![image](https://github.com/girayumitkan/Unity_Shop_Demo/assets/55592038/d17549f4-39b1-469d-975c-f099063370c3)
 
